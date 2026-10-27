@@ -261,3 +261,7 @@ For production deployment, configure a strong secret key, disable debug mode, co
 ## License
 
 This project is currently intended for learning and portfolio development. A formal open-source license can be added later.
+## Project Challenge
+
+Built for the roadmap.sh Expense Tracker API project:
+https://roadmap.sh/projects/expense-tracker-api
